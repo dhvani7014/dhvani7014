@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F19&height=200&section=header&text=Dhvani%20Dave&fontSize=55&fontColor=8B9DC3&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20%2B%20Applied%20AI/ML&descAlignY=58&descSize=20&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6366f1&height=220&section=header&text=Dhvani%20Dave&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=M.S.%20Computer%20Science%20%40%20University%20at%20Buffalo&descAlignY=58&descSize=20&descColor=c7d2fe" width="100%"/>
 
-<a href="https://dhvanidave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=8B9DC3" /></a>
-<a href="https://linkedin.com/in/dhvanidave7014"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=8B9DC3" /></a>
-<a href="mailto:dhvanidave7014@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=8B9DC3" /></a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+%2B+Applied+AI%2FML;M.S.+CS+%40+University+at+Buffalo+(GPA+3.9%2F4.0);Building+with+RAG%2C+LLMs+%26+Distributed+Systems;Open+to+SWE+%26+AI%2FML+roles+starting+2027" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://dhvanidave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=vercel&logoColor=A5B4FC" /></a>
+<a href="https://linkedin.com/in/dhvanidave7014"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dhvanidave7014@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/dhvani7014"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -17,95 +24,51 @@ education:   M.S. Computer Science @ University at Buffalo (GPA 3.9/4.0)
 status:      Open to Software Engineering & AI/ML roles starting 2027
 ```
 
-I'm a software engineer who enjoys building things, solving problems, and exploring what's possible with technology. I'm currently pursuing my Master's at the University at Buffalo, exploring AI, new tools, and ideas that spark my curiosity, with a **"give me anything, I'll figure it out"** mindset.
+I'm a software engineer who enjoys building things, solving problems, and exploring what's possible with technology. Currently pursuing my **M.S. in Computer Science at the University at Buffalo**, diving into AI, RAG systems, and distributed infrastructure with a *"give me anything, I'll figure it out"* mindset.
 
-Before my Master's, I worked as a **Cloud Software Engineer at CloudRock**, implementing Workday HCM solutions across 7+ countries for 10K+ employee records, end to end, from requirements through production support.
-
-<br/>
-
-### 🛠️ Tools I build with
-
-<div align="left">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Go-0B0F19?style=flat-square&logo=go&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Python-0B0F19?style=flat-square&logo=python&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/TypeScript-0B0F19?style=flat-square&logo=typescript&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/JavaScript-0B0F19?style=flat-square&logo=javascript&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Java-0B0F19?style=flat-square&logo=openjdk&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/C++-0B0F19?style=flat-square&logo=cplusplus&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/SQL-0B0F19?style=flat-square&logo=postgresql&logoColor=8B9DC3"/>
-
-**Backend & APIs**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-0B0F19?style=flat-square&logo=fastapi&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Node.js-0B0F19?style=flat-square&logo=nodedotjs&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/GraphQL-0B0F19?style=flat-square&logo=graphql&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/REST%20APIs-0B0F19?style=flat-square&logo=fastify&logoColor=8B9DC3"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-0B0F19?style=flat-square&logo=react&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/React%20Native-0B0F19?style=flat-square&logo=react&logoColor=8B9DC3"/>
-
-**Databases & Cloud**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B0F19?style=flat-square&logo=postgresql&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/MongoDB-0B0F19?style=flat-square&logo=mongodb&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Neo4j-0B0F19?style=flat-square&logo=neo4j&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/AWS-0B0F19?style=flat-square&logo=amazonaws&logoColor=8B9DC3"/>
-
-**AI / ML**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-0B0F19?style=flat-square&logo=pytorch&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/TensorFlow-0B0F19?style=flat-square&logo=tensorflow&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/LangGraph-0B0F19?style=flat-square&logo=langchain&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Hugging%20Face-0B0F19?style=flat-square&logo=huggingface&logoColor=8B9DC3"/>
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-0B0F19?style=flat-square&logo=git&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/Kubernetes-0B0F19?style=flat-square&logo=kubernetes&logoColor=8B9DC3"/> <img src="https://img.shields.io/badge/GitHub%20Actions-0B0F19?style=flat-square&logo=githubactions&logoColor=8B9DC3"/>
-
-</div>
-
-<br/>
-
-### 🚀 A few things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Concurrent Link Checker](https://concurrent-link-checker.onrender.com)**
-<br/>
-Concurrent web crawler and link validator in Go using a goroutine worker pool pattern, with a CLI and web interface plus a full CI/CD pipeline on GitHub Actions.
-<br/>
-`Go` `Goroutines` `GitHub Actions` `CI/CD`
-
-</td>
-<td width="50%" valign="top">
-
-**CiteMind**
-<br/>
-Citation grounded research paper assistant, a FastAPI RAG pipeline covering PDF extraction, chunking, embeddings, retrieval, and grounded answer generation.
-<br/>
-`FastAPI` `RAG` `ChromaDB` `Next.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**SentinelAI**
-<br/>
-AI powered fraud investigation system, a distributed 6 agent FastAPI backend with PostgreSQL and Neo4j for graph based fraud detection, exposed via GraphQL.
-<br/>
-`FastAPI` `Neo4j` `GraphQL` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**CodeSense**
-<br/>
-Agentic AI developer copilot, a full stack debugging assistant that retrieves code context, detects bugs, and generates validated patches. Fine tuned Qwen3-8B with QDoRA, cutting hallucinations by 93%.
-<br/>
-`LangGraph` `FAISS` `Tree-sitter` `Qwen3-8B`
-
-</td>
-</tr>
-</table>
+Before my Master's, I worked as a **Cloud Software Engineer at CloudRock**, implementing Workday HCM solutions across 7+ countries for 10K+ employee records — end to end, from requirements through production support.
 
 <br/>
 
 <div align="center">
 
-📫 **Let's connect**: [dhvanidave7014@gmail.com](mailto:dhvanidave7014@gmail.com) &nbsp;|&nbsp; [Portfolio](https://dhvanidave-portfolio.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/dhvanidave7014)
+### 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F19&height=100&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,django,postgres,git,docker,cpp,go&perline=11" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhvani7014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&icon_color=818cf8&text_color=c7d2fe" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvani7014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&text_color=c7d2fe" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhvani7014&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=A5B4FC&currStreakLabel=A5B4FC" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+</div>
+
+| Project | Description |
+|---|---|
+| **RAG Document Q&A** | Retrieval-augmented Q&A system — Django/FastAPI + React + vector DB + LLM |
+| **SentinelAI** | AI-powered fraud investigation system with a distributed agent pipeline over PostgreSQL/Neo4j |
+| **Go Crawler & Link Validator** | Concurrent web link checker built in Go |
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e1b4b&height=100&section=footer" width="100%"/>
 
 </div>
