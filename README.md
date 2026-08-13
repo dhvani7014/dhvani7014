@@ -17,6 +17,14 @@
 
 <br/>
 
+### Hey, I'm Dhvani :)
+
+I'm a Computer Science graduate student at the University at Buffalo. I enjoy building software, working with AI, and learning new technologies by actually using them.
+
+I like working on projects that challenge me to learn something new and solve problems along the way. This GitHub is where I keep the things I'm building, learning, and experimenting with.
+
+<br/>
+
 ```yaml
 whoami:      Dhvani Dave, New York, NY
 role:        Software Engineer, Full Stack + Applied AI/ML
@@ -35,19 +43,6 @@ Before my Master's, I worked as a **Cloud Software Engineer at CloudRock**, impl
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,django,postgres,git,docker,cpp,go&perline=11" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhvani7014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&icon_color=818cf8&text_color=c7d2fe" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvani7014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&text_color=c7d2fe" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhvani7014&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=A5B4FC&currStreakLabel=A5B4FC" width="48%"/>
 
 </div>
 
