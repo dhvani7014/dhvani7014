@@ -32,7 +32,7 @@ education:   M.S. Computer Science @ University at Buffalo (GPA 3.9/4.0)
 status:      Open to Software Engineering & AI/ML roles starting 2027
 ```
 
-I'm a software engineer who enjoys building things, solving problems, and exploring what's possible with technology. Currently pursuing my **M.S. in Computer Science at the University at Buffalo**, diving into AI, RAG systems, and distributed infrastructure with a *"give me anything, I'll figure it out"* mindset.
+I'm a software engineer who enjoys building things, solving problems, and exploring what's possible with technology. Currently pursuing my **M.S. in Computer Science at the University at Buffalo**, diving into AI and RAG systems
 
 Before my Master's, I worked as a **Cloud Software Engineer at CloudRock**, implementing Workday HCM solutions across 7+ countries for 10K+ employee records — end to end, from requirements through production support.
 
