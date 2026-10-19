@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+%2B+Applied+AI%2FML;M.S.+CS+%40+University+at+Buffalo+(GPA+3.9%2F4.0);Building+with+RAG%2C+LLMs+%26+Distributed+Systems;Open+to+SWE+%26+AI%2FML+roles+starting+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=900&height=50&lines=Software+Engineer+%7C+Full+Stack+%2B+Applied+AI%2FML;M.S.+CS+%40+University+at+Buffalo;Building+with+RAG%2C+LLMs+%26+Distributed+Systems;Open+source+contributor;Open+to+SWE+%26+AI%2FML+roles+starting+2027" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,22 +19,19 @@
 
 ### Hey, I'm Dhvani :)
 
-I'm a Computer Science graduate student at the University at Buffalo. I enjoy building software, working with AI, and learning new technologies by actually using them.
+I'm a software engineer and Computer Science grad student at the University at Buffalo, focused on AI and RAG systems. I learn new technologies by actually building with them, and this GitHub is where I keep the things I'm building, learning, and experimenting with.
 
-I like working on projects that challenge me to learn something new and solve problems along the way. This GitHub is where I keep the things I'm building, learning, and experimenting with.
+Before my Master's, I worked as a **Software Engineer at CloudRock**, implementing Workday solutions across 15+ countries for 10K+ employee records, end to end, from requirements through production support.
 
 <br/>
 
 ```yaml
 whoami:      Dhvani Dave, New York, NY
 role:        Software Engineer, Full Stack + Applied AI/ML
-education:   M.S. Computer Science @ University at Buffalo (GPA 3.9/4.0)
+education:   M.S. Computer Science @ University at Buffalo
+focus:       RAG, LLM tooling, distributed systems, open source
 status:      Open to Software Engineering & AI/ML roles starting 2027
 ```
-
-I'm a software engineer who enjoys building things, solving problems, and exploring what's possible with technology. Currently pursuing my **M.S. in Computer Science at the University at Buffalo**, diving into AI and RAG systems
-
-Before my Master's, I worked as a **Cloud Software Engineer at CloudRock**, implementing Workday HCM solutions across 7+ countries for 10K+ employee records — end to end, from requirements through production support.
 
 <br/>
 
@@ -56,9 +53,10 @@ Before my Master's, I worked as a **Cloud Software Engineer at CloudRock**, impl
 
 | Project | Description |
 |---|---|
-| **RAG Document Q&A** | Retrieval-augmented Q&A system — Django/FastAPI + React + vector DB + LLM |
+| **Scrollback** | Gives viewers a live, selectable, scroll-back-able copy of a presenter's screen share, so slides and code can be copied instead of screenshotted. [Live demo](https://scrollback1.vercel.app/) |
+| **MiniDyn** | Rigid body dynamics simulator in C++ with a [live demo](https://minidyn.vercel.app) |
+| **Go Crawler & Link Validator** | Concurrent web link checker built in Go. [Live demo](https://concurrent-link-checker.onrender.com/) |
 | **SentinelAI** | AI-powered fraud investigation system with a distributed agent pipeline over PostgreSQL/Neo4j |
-| **Go Crawler & Link Validator** | Concurrent web link checker built in Go |
 
 <br/>
 
